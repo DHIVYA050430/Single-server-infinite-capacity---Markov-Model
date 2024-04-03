@@ -33,9 +33,9 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
  
 ## Program
 
-NAME: RANJANI A
+NAME: DHIVYA E
 
-REG.NO: 212223230170
+REG.NO: 212223230050
 
 
 ```
